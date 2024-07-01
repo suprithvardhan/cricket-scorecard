@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏏 Cricket Scorecard
 
-## Getting Started
+![GitHub last commit](https://img.shields.io/github/last-commit/suprithvardhan/cricket-scorecard)
+![GitHub issues](https://img.shields.io/github/issues/suprithvardhan/cricket-scorecard)
+![GitHub stars](https://img.shields.io/github/stars/suprithvardhan/cricket-scorecard)
+![GitHub forks](https://img.shields.io/github/forks/suprithvardhan/cricket-scorecard)
+![GitHub license](https://img.shields.io/github/license/suprithvardhan/cricket-scorecard)
 
-First, run the development server:
+A simple and intuitive cricket scorecard application for updating and tracking scores of local cricket matches.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📌 Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- 🏃‍♂️ Real-time score updates
+- 🗣️ Basic commentary functionality
+- 📊 Intuitive scoreboard interface
+- 🧮 Automatic run rate and required run rate calculations
+- 🏆 Support for various match formats (T20, ODI, Test)
 
-## Learn More
+## 🚀 Installation
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone the repository:
+ git clone https://github.com/suprithvardhan/cricket-scorecard.git
+2. Navigate to the project directory:
+3. Install dependencies:
+## 🎮 Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Start the application:
+2. Open your web browser and go to `http://localhost:3000`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. Begin a new match by entering team names and selecting the match format.
 
-## Deploy on Vercel
+4. Use the intuitive interface to update scores, wickets, and add basic commentary as the match progresses.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤝 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contributions are welcome! Here's how you can help:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Please ensure your Pull Request adheres to the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) code of conduct.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/suprithvardhan">Suprith Vardhan</a>
+</p>
